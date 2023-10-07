@@ -1,0 +1,6 @@
+name: DanielMines
+version: '${project.version}'
+main: vdatta.us.danielmines.DanielMines
+api-version: '1.19'
+authors: [datta]
+description: Mines Plugin
